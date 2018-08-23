@@ -12,6 +12,9 @@ int main(int argc, char **argv) {
 
   printf("chenyu wu computer science!\n");
   printf("zhibin chen economics!\n");
+  
+  printf("yang zhou computer science!\n");
+  printf("yang zhou computer science!\n");
 
   return 0;
 }
