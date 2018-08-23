@@ -1,3 +1,3 @@
 # smiling 
-chenyuwu
+chenyuwu computer science
 zhibinchen economics
