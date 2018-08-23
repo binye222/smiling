@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("chenyu wu computer science!\n");
+  printf("zhibin chen economics!\n");
 
   return 0;
 }
