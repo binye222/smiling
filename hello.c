@@ -14,7 +14,7 @@ int main(int argc, char **argv) {
   printf("zhibin chen economics!\n");
   
   printf("yang zhou computer science!\n");
-  printf("yang zhou computer science!\n");
+  printf("Jelia ZhangRen computer science!\n");
 
   return 0;
 }
